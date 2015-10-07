@@ -9,11 +9,10 @@ System Requirements
 ===================================
 Compilation
 ===================================
-1. Extract the Assignment_1_ES13B1024.tar.gz file.
-2. The contents of the folder will be extracted. One will be zip file that contains the project.
-3. Open your favourite Java IDE and import this zip file if you want to run it from there.
-4. Run the UDP_Server and UDP_Client either from your IDE.
-5. If you are running it from terminal make sure of the directory and compile them using the following commands:
+1. Download the project.
+2. Open your favourite Java IDE and import this zip file if you want to run it from there.
+3. Run the UDP_Server and UDP_Client either from your Terminal.
+4. If you are running it from terminal make sure of the directory and compile them using the following commands:
 	Server Compile -> javac UDP_Server.java Server_Receive.java NextGaussian.java 
 	Server Run     -> java UDP_Server 'port'     //Enter the port on which you want to open your server without quotes.
 
